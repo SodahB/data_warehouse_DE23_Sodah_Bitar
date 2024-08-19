@@ -1,1 +1,3 @@
-# data_warehouse_DE23_Sodah_Bitar
+# Data Warehouse lifecycle course 
+
+I learn data warehouse here. 
